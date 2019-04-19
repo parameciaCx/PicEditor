@@ -2,6 +2,7 @@
 # Picture Editor
 
 This is a simple picture editor program that enables the user to perform various operations on a image file. For full details on the features, please see the Project report.
+
 **![](https://lh4.googleusercontent.com/9N1P4vUkWx4l_svxoy0TX1sRXps8hb8BQ_czNim_5ei1xfY3dhPYE7cP7_0ZptAP95orocB4rYogYrsFgU-uubbr9F8yGJU3zDNoKbqhxjSV8UsWZUIN8CFoq3fvtIpJtd0qKXbY)**
 
 ## Getting Started
